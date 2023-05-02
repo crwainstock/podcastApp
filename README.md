@@ -1,4 +1,24 @@
-# Team 2: Podcast App
+# Podcast App
+
+This app was developed by three members of a CodeOp Full Stack bootcamp cohort. The app allows users to search for podcast episodes by topic, listen to episodes in the app, and add favorite episodes to a playlist.
+
+The project goals included:
+
+- working remotely and asynchronously to build the app from conception to production (via GitHub)
+- going through the design process using Agile methodologies
+- using development support tools like Trello, Figma, etc to facilitate collaboration
+- building a minimally functional app
+
+### Front End (localhost: 3000)
+
+- **React**
+- **Vite**
+
+**Getting started:**
+
+- Go into the client directory by entering `cd client` into the Terminal
+- Install the dependencies with `npm install`
+- Run `npm run dev` to see the app
 
 ### Back End (localhost: 5001)
 
@@ -10,18 +30,6 @@
 
 - Run `npm install` to install the dependencies in the project folder
 - To start the server, run `npm start`
-
-### Front End
-
-- **React**
-- **Vite**
-
-**Getting started:**
-
-- Open a separate Terminal to start the front end
-- Go into the client directory by entering `cd client` into the Terminal
-- Install the dependencies with `npm install`
-- Run `npm run dev` to see the website
 
 ### Database Prep
 
