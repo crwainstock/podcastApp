@@ -53,7 +53,7 @@ Open another terminal and go into the project folder and run `npm run migrate`. 
 
 ### Dependencies
 
-In addition to nodemon and the regular stuff, our project also includes [node-fetch](https://www.npmjs.com/package/node-fetch) so we can do fetches in the backend and [react-router-dom](https://reactrouter.com/en/main) so we can use react-router for pages.
+The project uses [react-router-dom](https://reactrouter.com/en/main) to enable multiple pages in the application, [unirest](https://www.npmjs.com/package/unirest) to facilitate interactions with the [Listen Notes API](https://www.listennotes.com/api/docs/).
 
 ### Links
 
