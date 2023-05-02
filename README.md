@@ -55,6 +55,23 @@ Open another terminal and go into the project folder and run `npm run migrate`. 
 
 The project uses [react-router-dom](https://reactrouter.com/en/main) to enable multiple pages in the application, [unirest](https://www.npmjs.com/package/unirest) to facilitate interactions with the [Listen Notes API](https://www.listennotes.com/api/docs/).
 
+### First, a look back...
+
+This project was a fun and challenging build. Due to a globally distributed team, time management proved to be a challenge that we weren't able to completely overcome. We planned to implement user profiles with authentication and authorization using [JSON Web Tokens](https://jwt.io/) and [bcrypt](https://www.npmjs.com/package/bcrypt) so users could add favorite podcast episodes to their personal playlist.
+
+This functionality was almost complete by the project deadline, but the "Add to favorites" functionality isn't quite done. That being said, with a little more time, we would have been able to complete this feature.
+
+### Future Directions
+
+- Enable "Add to favorites" functionality
+- Enable "Delete from favorites" functionality
+- Fine tune responsive design
+- Ability to close player without reloading app
+- Improve user flow to account details
+- View episode details and listen from personal playlist
+- Ability to take notes about episodes in personal playlist
+- Enable multiple playlists
+
 ### Links
 
 - [Project Presentation Slides](https://docs.google.com/presentation/d/1gnEdT3RED8NwjqLBgb56dx9DoSKqEKYiipeo1NttxLM/edit#slide=id.p)
